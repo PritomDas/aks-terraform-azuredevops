@@ -154,7 +154,6 @@ terraform plan
 | **Terraform State Storage** | ![Storage Account](images/storage-account.png) |
 | **Azure DevOps Pipeline** | ![Pipeline Stages](images/pipeline-stages.png) |
 
-> Replace file names with your actual image paths in `/images`.
 
 ---
 
